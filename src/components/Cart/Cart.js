@@ -21,9 +21,8 @@ const Cart = () => {
               Youtube Channal
             </p>
           </div>
-          <button className="px-4 py-1 border border-purple-200 text-sm rounded-full text-purple-600 font-semibold hover:text-white hover:bg-purple-600 hover:border-transparent focus-outine-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-1">
-            Visit now
-          </button>
+          <button className="btn btn-purple">Visit now</button>
+          <button className="btn btn-green">Website</button>
         </div>
       </div>
     </div>
