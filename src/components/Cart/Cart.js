@@ -21,7 +21,7 @@ const Cart = () => {
               Youtube Channal
             </p>
           </div>
-          <button className="btn btn-purple">Visit now</button>
+          <button className="btn btn-purple rounded-sm">Visit now</button>
           <button className="btn btn-green">Website</button>
         </div>
       </div>
